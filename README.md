@@ -27,3 +27,35 @@ A reusable React + Vite intranet template with:
 ## Login module
 
 The template now opens on a generic login entry screen and moves into the intranet when the user clicks the sample Login button. Developers can replace this action with any authentication provider or internal access flow.
+
+## Screenshots
+
+### Home and Dashboard
+
+![Home dashboard](docs/screenshots/home-dashboard.jpeg)
+![Home overview](docs/screenshots/home-overview.jpeg)
+
+### Applications
+
+![Applications](docs/screenshots/applications.jpeg)
+
+### Newsletter
+
+![Newsletter](docs/screenshots/newsletter.jpeg)
+
+### Team Members
+
+![Team members](docs/screenshots/team-members.jpeg)
+![Polaroid profile](docs/screenshots/polaroid.jpeg)
+
+### Legal Updates
+
+![Legal updates](docs/screenshots/legal-updates.jpeg)
+
+### Trainings
+
+![Trainings](docs/screenshots/trainings.jpeg)
+
+### Collapsed Sidebar
+
+![Collapsed sidebar](docs/screenshots/collapsed-sidebar.jpeg)
