@@ -1,6 +1,6 @@
 ﻿# Intranet Template 1.0.0
 
-A reusable React + Vite intranet template with:
+A React + Vite intranet template with:
 
 - login entry screen
 - sidebar navigation
@@ -26,7 +26,7 @@ A reusable React + Vite intranet template with:
 
 ## Login module
 
-The template now opens on a generic login entry screen and moves into the intranet when the user clicks the sample Login button. Developers can replace this action with any authentication provider or internal access flow.
+The template opens on a generic login entry screen and moves into the intranet when the user clicks the sample Login button. Developers can replace this action with any authentication provider or internal access flow.
 
 ## Screenshots
 
